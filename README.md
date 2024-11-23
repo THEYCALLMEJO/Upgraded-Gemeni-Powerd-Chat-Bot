@@ -1,5 +1,5 @@
 # Gemini Powered Bot
-![App's Demo](demo.png)
+![App's Demo](https://raw.githubusercontent.com/THEYCALLMEJO/Upgraded-Gemeni-Powerd-Chat-Bot/master/Demo.png)
 Welcome to the Gemini Powered Bot!👋 This application leverages Google's Generative AI to provide informative answers to your questions. Simply type your query, and the bot will generate a response based on the advanced capabilities of the Gemini model.
 
 ## Features
