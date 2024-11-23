@@ -17,8 +17,8 @@ Chat History
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-      git clone https://github.com/THEYCALLMEJO/Gemini-Powered-Bot.git
-   
+      git clone https://github.com/THEYCALLMEJO/Upgraded-Gemeni-Powerd-Chat-Bot.git
+git push -u origin main
 2. Navigate to the project directory:
       cd Gemini-Powered-Bot
    
